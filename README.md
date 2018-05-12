@@ -3,9 +3,9 @@ Blessed Cardinal Newman Technology Arts Project
 
 This is a simple project to create a web based quiz where students can answer a variety of math questions and get feed back on how they are doing.
 
-To see the Html code open index.html in any text editor
-to see the styles the project is using open static/css/main.css
-to see the code used in the website open static/js/main.js
+ * To see the Html code open index.html in any text editor
+ * to see the styles the project is using open static/css/main.css
+ * to see the code used in the website open static/js/main.js
 
 In the class I was using the text editor called Atom, you can download it here : https://atom.io/
 
