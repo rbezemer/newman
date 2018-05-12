@@ -3,20 +3,22 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.newman-background {
 
+}
+.question-box{
+  border:solid;
+  font-size:75px;
+  width:100px;
+  height:100px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  text-align: center;
+}
+.symbol {
+  font-size: 25px;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+p {
+  font-size:14px;
+}
