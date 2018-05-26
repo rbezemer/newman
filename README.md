@@ -1,7 +1,15 @@
 Blessed Cardinal Newman Technology Arts Project
 ==========
 
+
+
 This is a simple project to create a web based quiz where students can answer a variety of math questions and get feed back on how they are doing.
+
+you can download the code by using this link:
+https://github.com/rbezemer/newman/archive/master.zip
+
+then extract the zip file on your computer and open index.html in a browser.
+Any changes you make will show up in the browser when you reload the browser.
 
  * To see the Html code open index.html in any text editor
  * to see the styles the project is using open static/css/main.css
